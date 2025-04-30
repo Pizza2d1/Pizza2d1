@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Nathan and I do bash scripting, its my main thing
+My name is Nathan and I do bash scripting
 
 Right now I am working on making my own kubernetes cluster so that I can quickly process and transcode multiple video files for personal purposes, I am also working on making a website that will host different files that can be downloaded for ease of access (but mostly so that I can access them without them being blocked by my school wifi).
 
