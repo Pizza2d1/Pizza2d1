@@ -3,15 +3,15 @@ My name is Nathan / Pizza :pizza:
 
 I am a mostly self-taught programmer that learns random languages to pick up for the fun of it, languages such as:
 
-🟥Java
+🟥 Java
 
-🟨PHP
+🟨 PHP
 
-🟩Python
+🟩 Python
 
-🟦Bash
+🟦 Bash
 
-🟪C++ (just started)
+🟪 C++ (just started)
 
 
 I am in between many projects right now, including making a kubernetes+anisible raspberry pi cluster 🔗, soldering practice 🪛, creating my website to store/play files that my friends and I upload to it using my NAS made of a broken laptop 📃, and potentially in the future making a drone from scratch with my college's 3D printers 🛩️.
