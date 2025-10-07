@@ -7,9 +7,11 @@ My name is Nathan / Pizza :pizza:
 
 I am a mostly self-taught programmer that learns random languages to pick up for the fun of it, languages such as:
 
-🟥 Java
 
-🟨 PHP
+ 
+🟥 Java                   <img align="right" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2d1&theme=dark&layout=compact">               
+
+🟨 PHP    
 
 🟩 Python
 
