@@ -1,4 +1,8 @@
 ## Hi there 👋
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/714918826831118436)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/pizza2d1)
+
+
 My name is Nathan / Pizza :pizza:
 
 I am a mostly self-taught programmer that learns random languages to pick up for the fun of it, languages such as:
