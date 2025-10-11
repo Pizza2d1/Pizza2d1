@@ -11,7 +11,7 @@ I am a mostly self-taught programmer that learns random languages to pick up for
 
 
  
-🟥 Java                    <img align="right" width="5" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" hidden /><img align="right" width="200" src="https://media.tenor.com/YytI7A-IRcsAAAAj/kirby-dance-kirby.gif"><img align="right" width="100" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" hidden /><img align="right" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2d1&theme=dark&layout=compact">
+🟥 Java                    <img align="right" width="100" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" hidden /><img align="right" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2d1&theme=dark&layout=compact">
 
 🟨 PHP    
 
@@ -24,7 +24,7 @@ I am a mostly self-taught programmer that learns random languages to pick up for
 
 I am in between many projects right now, including making a kubernetes+anisible raspberry pi cluster 🔗, soldering practice 🪛, creating my website to store/play files that my friends and I upload to it using my NAS made of a broken laptop 📃, and potentially in the future making a drone from scratch with my college's 3D printers 🛩️.
 
-I hope you find some of my projects interesting as I try to make them as user-friendly as possible!
+I hope you find some of my projects interesting as I try to make them as user-friendly as possible! <img align="right" width="50" src="https://media.tenor.com/YytI7A-IRcsAAAAj/kirby-dance-kirby.gif">
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pizza2d1)
@@ -47,3 +47,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- <img align="right" width="5" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" hidden /> -->
