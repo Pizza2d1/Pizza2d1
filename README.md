@@ -11,7 +11,7 @@ I am a mostly self-taught programmer that learns random languages to pick up for
 
 
  
-🟥 Java                    <img align="right" width="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" hidden /><img align="right" width="200" src="https://media.tenor.com/YytI7A-IRcsAAAAj/kirby-dance-kirby.gif"><img align="right" width="150" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" hidden /><img align="right" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2d1&theme=dark&layout=compact">
+🟥 Java                    <img align="right" width="5" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" hidden /><img align="right" width="200" src="https://media.tenor.com/YytI7A-IRcsAAAAj/kirby-dance-kirby.gif"><img align="right" width="100" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" hidden /><img align="right" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2d1&theme=dark&layout=compact">
 
 🟨 PHP    
 
