@@ -3,7 +3,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/pizza2d1)
 [![Proton](https://shields.io/badge/Proton%20Mail-%236d4aff.svg?&logo=proton&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pizza2d1@proton.me)
 [![Proton](https://shields.io/badge/Gmail-%23fa5e55.svg?&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yyou9481138@gmail.com)
-
+<!-- https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fpizza2d1.duckdns.org -->
 
 My name is Nathan / Pizza :pizza:
 
@@ -11,7 +11,7 @@ I am a mostly self-taught programmer that learns random languages to pick up for
 
 
  
-🟥 Java                   <img align="right" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2d1&theme=dark&layout=compact">               
+🟥 Java                    <img align="right" width="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" hidden /><img align="right" width="200" src="https://media.tenor.com/YytI7A-IRcsAAAAj/kirby-dance-kirby.gif"><img align="right" width="150" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" hidden /><img align="right" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2d1&theme=dark&layout=compact">
 
 🟨 PHP    
 
