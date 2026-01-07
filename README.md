@@ -24,7 +24,8 @@ I am a mostly self-taught programmer that learns random languages to pick up for
 
 I am in between many projects right now, including making a kubernetes+anisible raspberry pi cluster 🔗, soldering practice 🪛, creating my website to store/play files that my friends and I upload to it using my NAS made of a broken laptop 📃, and potentially in the future making a drone from scratch with my college's 3D printers 🛩️.
 
-I hope you find some of my projects interesting as I try to make them as user-friendly as possible! <img align="right" width="50" src="https://media.tenor.com/YytI7A-IRcsAAAAj/kirby-dance-kirby.gif">
+I hope you find some of my projects interesting as I try to make them as user-friendly as possible! <img align="right" width="50" src="https://github.com/user-attachments/assets/5430d597-c1bd-420b-8368-80bc51777393">
+
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pizza2d1)
