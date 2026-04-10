@@ -22,7 +22,7 @@ I am a mostly self-taught programmer that learns random languages to pick up for
 🟪 Rust (just started)
 
 
-I am in between many projects right now, including making a kubernetes+anisible raspberry pi cluster 🔗, soldering practice 🪛, creating my website to store/play files that my friends and I upload to it using my NAS made of a broken laptop 📃, and potentially in the future making a drone from scratch with my college's 3D printers 🛩️.
+I am in between many projects right now, including making a kubernetes+anisible raspberry pi cluster 🔗, soldering practice 🪛, creating my website to store/play files that my friends and I upload to it using my NAS made of a broken laptop and a string of connected drives in a LVM 📃, and potentially in the future making a drone from scratch with my college's 3D printers 🛩️.
 
 I hope you find some of my projects interesting as I try to make them as user-friendly as possible! <img align="right" width="50" src="https://github.com/user-attachments/assets/5430d597-c1bd-420b-8368-80bc51777393">
 
