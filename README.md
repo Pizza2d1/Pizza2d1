@@ -3,7 +3,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/pizza2d1)
 [![Proton](https://shields.io/badge/Proton%20Mail-%236d4aff.svg?&logo=proton&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pizza2d1@proton.me)
 [![Proton](https://shields.io/badge/Gmail-%23fa5e55.svg?&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yyou9481138@gmail.com)
-<!-- https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fpizza2d1.duckdns.org -->
+![a](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fpizza2d1.duckdns.org)
 
 My name is Nathan / Pizza :pizza:
 
@@ -29,8 +29,9 @@ I hope you find some of my projects interesting as I try to make them as user-fr
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pizza2d1)
-[![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)](https://lineageos.org)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://learncpp.com)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://nvchad.com)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md)
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://pizza2d1.duckdns.org/rss/)
